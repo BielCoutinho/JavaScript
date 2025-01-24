@@ -19,14 +19,14 @@
 }
 
 /* sáiada */
-#slide.slideEsq {
+#slide.slideIn {
     transform: translateX(-100%);
     opacity: 0; /* 0 representa totalmente transpatente*/
 }
 
 /* entrada */
 
-#slide.slideDir {
+#slide.slideOut {
     transform: translateX(0);
     opacity: 1; /* sólido */
 }
